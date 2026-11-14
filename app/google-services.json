@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215029906589",
+    "project_id": "amsapp-fee7e",
+    "storage_bucket": "amsapp-fee7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215029906589:android:50a6e8598671e92b716874",
+        "android_client_info": {
+          "package_name": "com.example.amsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWqPYofj4Oi9mMBiiPvcdy02y0u9yGXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
